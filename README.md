@@ -1,4 +1,4 @@
-# Banking-System-
+# Banking-System
 Created an Banking System using C++ Programming Language
 
 Operations done on this Project is to provide a console-based menu allowing the user to:
